@@ -10,14 +10,16 @@
 }
 
 .nav-section {
-  padding: 30px;
+  display: flex;
   background-color: #ffffff;
   color: #262626;
   box-shadow: 0px 0px 20px 0.1px rgb(0, 0, 0, 0.1);
+  padding: 30px;
 }
 .nav-section ul {
   display: flex;
-  margin-left: 300px;
+  margin: auto;
+  line-height: 40px;
 }
 
 .nav-section ul li {
